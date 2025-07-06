@@ -42,7 +42,7 @@ The dataset includes:
 - See how different categories (Obese, Normal, etc.) are distributed
 - Explore linear trends between height, weight, and BMI
 
-## ⚙Technologies Used
+## Technologies Used
 
 - Python
 - Google Colab
